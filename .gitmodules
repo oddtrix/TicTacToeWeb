@@ -1,0 +1,6 @@
+[submodule "TicTacToeReact"]
+	path = TicTacToeReact
+	url = https://github.com/oddtrix/TicTacToeReact.git
+[submodule "TicTacToeApi"]
+	path = TicTacToeApi
+	url = https://github.com/oddtrix/TicTacToeApi.git
